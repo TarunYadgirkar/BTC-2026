@@ -3,7 +3,7 @@
 Welcome to the central repository for the 2026 Battle of The Coasts! This is the official hub where all participating teams will submit their final project code for judging.
 
 ## 📅 Important Deadlines
-* **Hacking Begins:** [ September 12 th at 12 pm]
+* **Hacking Begins:** [ September 12th at 12 pm EST]
 * **Code Submission Deadline:** [Every 12 hours]
 * **Judging Begins:** [Insert Judging Date/Time]
 
